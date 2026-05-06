@@ -38,7 +38,7 @@ Generated files (do not edit manually):
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone <https://github.com/ntonous/hng14-stage4-taask.git>
 cd swiftdeploy
 
 # Install CLI dependencies
